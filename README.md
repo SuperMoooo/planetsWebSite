@@ -1,6 +1,6 @@
 # planetsWebSite
 Html/Css/Js - Planets information website
-
+Live: https://supermoooo.github.io/planetsWebSite/index.html
 Home Page:
 ![image](https://github.com/SuperMoooo/planetsWebSite/assets/134961694/62fd6dae-9c20-4c4f-b9c9-cb956cb19da0)
 
